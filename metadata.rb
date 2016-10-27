@@ -18,5 +18,3 @@ supports 'debian'
 supports 'fedora'
 supports 'redhat'
 supports 'ubuntu'
-
-chef_version '>= 12.1'
